@@ -1,6 +1,6 @@
 # Projet Data Science / Git : Analyse et Modélisation
 
-## Objectif du Projet
+## Objectif du Dojo
 
 L'objectif de ce projet est de vous familiariser avec les outils et les processus utilisés en data science, y compris l'analyse exploratoire des données (EDA), le prétraitement des données, l'ingénierie des caractéristiques, l'entraînement de modèles de machine learning, et l'utilisation de Git et GitHub pour la collaboration en équipe.
 
