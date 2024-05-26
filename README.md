@@ -7,7 +7,7 @@ L'objectif de ce projet est de vous familiariser avec les outils et les processu
 ## Structure du Projet
 
 Le projet est structuré comme suit :
-
+```
 project/
 ├── data/ # Dossiers pour les datasets
 │ └── raw/ # Données brutes
@@ -23,7 +23,7 @@ project/
 ├── requirements.txt # Dépendances du projet
 ├── README.md # Documentation du projet
 └── .gitignore # Fichiers à ignorer par Git
-
+```
 ## Étapes du Projet
 
 ### 0. Nettoyage des données
