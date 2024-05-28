@@ -77,6 +77,10 @@ https://www.freecodecamp.org/news/how-to-fork-a-github-repository/
 
 
 ** BONUS **
+
+Ressources pour les pull requests : 
+
+https://www.frayssinet.org/2021/06/25/tuto-debutant-faire-une-pull-request-sur-github-avec-git/
    
 6. **Pull Requests** : Une fois le travail terminé, créez des pull requests (PR) de vos branches vers la branche principale du fork.
 7. **Revue de Code** : Les autres membres du groupe doivent revoir les PRs, fournir des commentaires, et approuver les changements.
