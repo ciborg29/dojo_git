@@ -29,7 +29,7 @@ L'exploration des données permet de comprendre les caractéristiques et les ten
 La modélisation des données implique le développement de modèles prédictifs et descriptifs pour répondre à des questions business spécifiques. Voici quelques approches de feature engineering et de modélisation à considérer :
 
 - **Feature Engineering :**
-  - **RFM (Récence, Fréquence, Montant) :** Calculer les scores RFM pour chaque client afin de segmenter la clientèle en fonction de la récence de leurs achats, de la fréquence de leurs transactions et du montant dépensé.
+  - **RFM (Récence, Fréquence, Montant) :** Calculer les scores RFM pour chaque client afin de segmenter la clientèle en fonction de la récence de leurs achats, de la fréquence de leurs transactions et du montant dépensé / Pour le calcul de la recency vous pouvez utiliser la date la plus récente du dataset plutot que la date d'aujourd'hui.
   - **Segmentation comportementale :** Créer des segments de clients basés sur des comportements d'achat, tels que les catégories de produits préférées, la saisonnalité des achats, etc.
   - **Variables dérivées :** Créer de nouvelles variables à partir des données existantes, comme le nombre moyen de transactions par mois, la valeur moyenne des transactions, etc.
 
