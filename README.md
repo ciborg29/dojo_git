@@ -1,8 +1,43 @@
 # Projet Data Science / Git : Analyse et Modélisation
 
-## Objectif du Dojo
-
 L'objectif de ce projet est de vous familiariser avec les outils et les processus utilisés en data science, y compris l'analyse exploratoire des données (EDA), le prétraitement des données, l'ingénierie des caractéristiques, l'entraînement de modèles de machine learning, et l'utilisation de Git et GitHub pour la collaboration en équipe.
+
+## Détail de l'attendu et des preprocessing / analyses et modélisations attendues :
+
+### 1. Nettoyage des Données
+
+Le nettoyage des données est une étape fondamentale pour garantir l'intégrité et la qualité des données utilisées dans les analyses et les modèles. Voici les tâches spécifiques de nettoyage à effectuer :
+
+- **Gestion des valeurs manquantes :** Identifier et traiter les valeurs manquantes dans les jeux de données clients, produits et transactions. Cela peut inclure l'imputation des valeurs manquantes ou la suppression des enregistrements incomplets.
+- **Correction des incohérences :** Rechercher et corriger les incohérences dans les données, telles que des dates invalides, des doublons ou des valeurs aberrantes.
+- **Standardisation des formats :** Uniformiser les formats des données (dates, numéros de téléphone, adresses, etc.) pour assurer une cohérence à travers l'ensemble des jeux de données.
+- **Nettoyage des textes :** Pour les données textuelles (noms de produits, descriptions, etc.), effectuer un nettoyage des textes pour éliminer les fautes de frappe, les caractères spéciaux indésirables et les espaces superflus.
+- **Vérification des relations entre les jeux de données :** S'assurer que les relations entre les clients, les produits et les transactions sont logiques et cohérentes.
+
+### 2. Exploration des Données
+
+L'exploration des données permet de comprendre les caractéristiques et les tendances des jeux de données. Voici quelques analyses intéressantes à réaliser :
+
+- **Analyse descriptive :** Calculer des statistiques descriptives (moyenne, médiane, écart-type, etc.) pour chaque jeu de données afin de résumer les principales caractéristiques.
+- **Visualisation des données :** Utiliser des graphiques et des visualisations pour identifier des tendances, des distributions et des anomalies dans les données. Par exemple, des histogrammes pour les ventes de produits, des diagrammes de dispersion pour les relations entre variables, etc.
+- **Analyse des segments de clients :** Identifier des segments de clients basés sur des critères démographiques ou comportementaux, et analyser leurs caractéristiques.
+- **Analyse des transactions :** Étudier les tendances des transactions, comme les périodes de forte activité, les produits les plus vendus, etc.
+- **Analyse des corrélations :** Rechercher des corrélations entre différentes variables pour identifier des relations potentielles à explorer plus en profondeur lors de la modélisation.
+
+### 3. Modélisation des Données
+
+La modélisation des données implique le développement de modèles prédictifs et descriptifs pour répondre à des questions business spécifiques. Voici quelques approches de feature engineering et de modélisation à considérer :
+
+- **Feature Engineering :**
+  - **RFM (Récence, Fréquence, Montant) :** Calculer les scores RFM pour chaque client afin de segmenter la clientèle en fonction de la récence de leurs achats, de la fréquence de leurs transactions et du montant dépensé.
+  - **Segmentation comportementale :** Créer des segments de clients basés sur des comportements d'achat, tels que les catégories de produits préférées, la saisonnalité des achats, etc.
+  - **Variables dérivées :** Créer de nouvelles variables à partir des données existantes, comme le nombre moyen de transactions par mois, la valeur moyenne des transactions, etc.
+
+- **Objectif de la Segmentation :**
+  - **Personnalisation des campagnes marketing :** Utiliser la segmentation pour cibler des groupes de clients spécifiques avec des offres personnalisées, ce qui peut améliorer l'efficacité des campagnes marketing.
+  - **Amélioration de la fidélisation :** Identifier les clients à risque de churn (désabonnement) et développer des stratégies pour les fidéliser.
+  - **Optimisation des assortiments de produits :** Adapter les assortiments de produits en fonction des préférences des différents segments de clients.
+  - **Prévision des ventes :** Utiliser les segments de clients pour améliorer les prévisions de ventes et optimiser les stocks.
 
 ## Structure du Projet
 
