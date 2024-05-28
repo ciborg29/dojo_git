@@ -74,6 +74,8 @@ https://www.freecodecamp.org/news/how-to-fork-a-github-repository/
    - `feature-vizualization` pour la partie exploration des données
    - `feature-model-training` pour le feature engineering et l'entraînement des modèles
 5. **Commit et Push** Chaque fois que vous etes satisfait de l'avancement de votre travail vous pouvez commit les modifs réalisées et ensuite push sur la branche associée du repo distant
+
+
 ** BONUS **
    
 6. **Pull Requests** : Une fois le travail terminé, créez des pull requests (PR) de vos branches vers la branche principale du fork.
