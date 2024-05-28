@@ -79,13 +79,13 @@ project/
 
 ### 3. Ingénierie des Caractéristiques -> liée à la mosélisation
 
-- Le notebook `modeling.ipynb` peut-être utilisé pour tester le feature engineering
+- Le notebook `notebooks/modeling.ipynb` peut-être utilisé pour tester le feature engineering
 - Utilisez `src/feature_engineering.py` pour automatiser si vous le voulez à l'aide de fonctions la création des caractéristiques pertinentes.
 - Cette étape peut inclure la création de nouvelles variables à partir des données existantes.
 
 ### 4. Entraînement du Modèle
 
-- Le notebook `notebooks/model_training.ipynb` peut-être utilisé pour entrainer et evaluer le modele
+- Le notebook `notebooks/modeling.ipynb` peut-être utilisé pour entrainer et evaluer le modele
 - Comparez les performances des modèles et sélectionnez le meilleur modèle en fonction des métriques d'évaluation.
 - Une fois satisfait du modèle vous pouvez automatiser l'entrainement et la prediction du modèle dans `src/model_training.py`.
 
