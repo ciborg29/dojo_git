@@ -60,10 +60,13 @@ project/
 
 1. **Formation des Groupes** : Vous serez formés en groupes de 3 à 4 élèves.
 2. **Fork du Dépôt** : Un élève par groupe doit forker ce dépôt et inviter les deux autres membres en tant que collaborateurs, une fois ajouté au dépot vous pouvez cloner le projet sur un repertoire en local.
+   
 2.1. **Comment inviter des personnes sur un repo** :
 https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository
+
 2.2. **Comment Fork un projet** :
 https://www.freecodecamp.org/news/how-to-fork-a-github-repository/
+
 4. **Branches** : Chaque élève doit travailler sur une branche dédiée :
    - `feature-data-cleaning` pour le prétraitement des données/nettoyage
    - `feature-vizualization` pour la partie exploration des données
