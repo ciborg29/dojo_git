@@ -20,7 +20,6 @@ project/
 │ └── data_preprocessing.py
 │ └── feature_engineering.py
 │ └── model_training.py
-├── requirements.txt # Dépendances du projet
 ├── README.md # Documentation du projet
 └── .gitignore # Fichiers à ignorer par Git
 ```
