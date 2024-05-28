@@ -1,0 +1,4 @@
+customers : https://dojo-git.s3.eu-west-3.amazonaws.com/cleaned/customers.csv
+transactions : https://dojo-git.s3.eu-west-3.amazonaws.com/cleaned/Transactions.csv
+products : https://dojo-git.s3.eu-west-3.amazonaws.com/cleaned/products.csv
+
