@@ -118,7 +118,6 @@ https://www.frayssinet.org/2021/06/25/tuto-debutant-faire-une-pull-request-sur-g
    
 6. **Pull Requests** : Une fois le travail terminé, créez des pull requests (PR) de vos branches vers la branche principale du fork.
 7. **Revue de Code** : Les autres membres du groupe doivent revoir les PRs, fournir des commentaires, et approuver les changements.
-8. **Pull Request Finale** : Après approbation de toutes les PRs internes, créez une PR finale du fork vers le dépôt initial.
 
 
 
